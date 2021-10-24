@@ -1,3 +1,4 @@
+<!--XEM CON CẶC GÌ Ở ĐÂY HẢ MẤY TK MẶT LỒN-->  
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
     viewBox='0 0 360 50'
@@ -16,6 +17,8 @@
         </textPath>
     </text>
 
+<!--XEM CON CẶC GÌ Ở ĐÂY HẢ MẤY TK MẶT LỒN-->  
+
     <path id='path1'>
         <animate id='d1' attributeName='d' begin='d0.end' dur='3s'
             values='m0,25 h0 ; m0,25 h360 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
@@ -28,6 +31,8 @@
         </textPath>
     </text>
 
+<!--XEM CON CẶC GÌ Ở ĐÂY HẢ MẤY TK MẶT LỒN-->  
+
     <path id='path2'>
         <animate id='d2' attributeName='d' begin='d1.end' dur='3s'
             values='m0,25 h0 ; m0,25 h360 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
@@ -39,6 +44,8 @@
             Hẹn gặp bạn lần sau 
         </textPath>
     </text>
+
+<!--XEM CON CẶC GÌ Ở ĐÂY HẢ MẤY TK MẶT LỒN-->  
 
     <path id='path3'>
         <animate id='d3' attributeName='d' begin='d2.end' dur='3s'
