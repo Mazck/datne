@@ -1,55 +1,5 @@
-<svg xmlns='http://www.w3.org/2fff/svg'
-    xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 360 50'
-    width='300px' height='50px'>
+<script>
 
-    
-<path id='path0'>
-        <animate id='d0' attributeName='d' begin='0s;d3.end' dur='4s'
-            values='m0,25 h0 ; m0,25 h360 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
-    </path>
-    <text font-family='"monospace", monospace' fill='#fff' font-size='20'
-        dominant-baseline='auto'
-        x='50%' text-anchor='middle'>
-        <textPath xlink:href='#path0'>
-            Chào , tôi là Đạt 
-        </textPath>
-    </text>
+document.write(unescape("%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2fff/svg%27%20xmlns%3Axlink%3D%27http%3A//www.w3.org/1999/xlink%27%20viewBox%3D%270%200%20360%2050%27%20width%3D%27300px%27%20height%3D%2750px%27%3E%0A%0A%0A%20%20%20%20%3Cpath%20id%3D%27path0%27%3E%0A%20%20%20%20%20%20%20%20%3Canimate%20id%3D%27d0%27%20attributeName%3D%27d%27%20begin%3D%270s%3Bd3.end%27%20dur%3D%274s%27%20values%3D%27m0%2C25%20h0%20%3B%20m0%2C25%20h360%20%3B%20m0%2C25%20h0%27%20keyTimes%3D%270%20%3B%200.8%20%3B%201%27%20/%3E%0A%20%20%20%20%3C/path%3E%0A%20%20%20%20%3Ctext%20font-family%3D%27%22monospace%22%2C%20monospace%27%20fill%3D%27%23fff%27%20font-size%3D%2720%27%20dominant-baseline%3D%27auto%27%20x%3D%2750%25%27%20text-anchor%3D%27middle%27%3E%0A%20%20%20%20%20%20%20%20%3CtextPath%20xlink%3Ahref%3D%27%23path0%27%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20Ch%E0o%20%2C%20t%F4i%20l%E0%20%u0110%u1EA1t%0A%20%20%20%20%20%20%20%20%3C/textPath%3E%0A%20%20%20%20%3C/text%3E%0A%0A%20%20%20%20%3Cpath%20id%3D%27path1%27%3E%0A%20%20%20%20%20%20%20%20%3Canimate%20id%3D%27d1%27%20attributeName%3D%27d%27%20begin%3D%27d0.end%27%20dur%3D%273s%27%20values%3D%27m0%2C25%20h0%20%3B%20m0%2C25%20h360%20%3B%20m0%2C25%20h0%27%20keyTimes%3D%270%20%3B%200.8%20%3B%201%27%20/%3E%0A%20%20%20%20%3C/path%3E%0A%20%20%20%20%3Ctext%20font-family%3D%27%22monospace%22%2C%20monospace%27%20fill%3D%27%23fff%27%20font-size%3D%2720%27%20dominant-baseline%3D%27auto%27%20x%3D%2750%25%27%20text-anchor%3D%27middle%27%3E%0A%20%20%20%20%20%20%20%20%3CtextPath%20xlink%3Ahref%3D%27%23path1%27%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20Theo%20d%F5i%20t%F4i%20%u1EDF%20b%EAn%20d%u01B0%u1EDBi%20nh%E9%20%21%0A%20%20%20%20%20%20%20%20%3C/textPath%3E%0A%20%20%20%20%3C/text%3E%0A%0A%20%20%20%20%3Cpath%20id%3D%27path2%27%3E%0A%20%20%20%20%20%20%20%20%3Canimate%20id%3D%27d2%27%20attributeName%3D%27d%27%20begin%3D%27d1.end%27%20dur%3D%273s%27%20values%3D%27m0%2C25%20h0%20%3B%20m0%2C25%20h360%20%3B%20m0%2C25%20h0%27%20keyTimes%3D%270%20%3B%200.8%20%3B%201%27%20/%3E%0A%20%20%20%20%3C/path%3E%0A%20%20%20%20%3Ctext%20font-family%3D%27%22monospace%22%2C%20monospace%27%20fill%3D%27%23fff%27%20font-size%3D%2720%27%20dominant-baseline%3D%27auto%27%20x%3D%2750%25%27%20text-anchor%3D%27middle%27%3E%0A%20%20%20%20%20%20%20%20%3CtextPath%20xlink%3Ahref%3D%27%23path2%27%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%u0110%E2y%20l%E0%20h%u1ED3%20s%u01A1%20c%u1EE7a%20t%F4i%0A%20%20%20%20%20%20%20%20%3C/textPath%3E%0A%20%20%20%20%3C/text%3E%0A%0A%20%20%20%20%3Cpath%20id%3D%27path3%27%3E%0A%20%20%20%20%20%20%20%20%3Canimate%20id%3D%27d3%27%20attributeName%3D%27d%27%20begin%3D%27d2.end%27%20dur%3D%273s%27%20values%3D%27m0%2C25%20h0%20%3B%20m0%2C25%20h360%20%3B%20m0%2C25%20h0%27%20keyTimes%3D%270%20%3B%200.8%20%3B%201%27%20/%3E%0A%20%20%20%20%3C/path%3E%0A%20%20%20%20%3Ctext%20font-family%3D%27%22monospace%22%2C%20monospace%27%20fill%3D%27%23fff%27%20font-size%3D%2720%27%20dominant-baseline%3D%27auto%27%20x%3D%2750%25%27%20text-anchor%3D%27middle%27%3E%0A%20%20%20%20%20%20%20%20%3CtextPath%20xlink%3Ahref%3D%27%23path3%27%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20Ch%FAc%20b%u1EA1n%20m%u1ED9t%20ng%E0y%20t%u1ED1t%20l%E0nh%0A%20%20%20%20%20%20%20%20%3C/textPath%3E%0A%20%20%20%20%3C/text%3E%0A%0A%3C/svg%3E"));
 
-    <path id='path1'>
-        <animate id='d1' attributeName='d' begin='d0.end' dur='3s'
-            values='m0,25 h0 ; m0,25 h360 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
-    </path>
-    <text font-family='"monospace", monospace' fill='#fff' font-size='20'
-        dominant-baseline='auto'
-        x='50%' text-anchor='middle'>
-        <textPath xlink:href='#path1'>
-            Theo dõi tôi ở bên dưới nhé !
-        </textPath>
-    </text>
-
-    <path id='path2'>
-        <animate id='d2' attributeName='d' begin='d1.end' dur='3s'
-            values='m0,25 h0 ; m0,25 h360 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
-    </path>
-    <text font-family='"monospace", monospace' fill='#fff' font-size='20'
-        dominant-baseline='auto'
-        x='50%' text-anchor='middle'>
-        <textPath xlink:href='#path2'>
-            Đây là hồ sơ của tôi 
-        </textPath>
-    </text>
-
-    <path id='path3'>
-        <animate id='d3' attributeName='d' begin='d2.end' dur='3s'
-            values='m0,25 h0 ; m0,25 h360 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
-    </path>
-    <text font-family='"monospace", monospace' fill='#fff' font-size='20'
-        dominant-baseline='auto'
-        x='50%' text-anchor='middle'>
-        <textPath xlink:href='#path3'>
-            Chúc bạn một ngày tốt lành
-        </textPath>
-    </text>
-
-</svg>
+</script>
